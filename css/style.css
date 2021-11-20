@@ -1,0 +1,81 @@
+body {
+    font-size: 14px;
+    font-family: 'Myriad Pro', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+table {
+    word-break: break-all;
+    table-layout: fixed;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+main table {
+    width: 100%;
+}
+
+header td {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+header a {
+    text-transform: uppercase;
+    color: #626262;
+    text-decoration: none;
+}
+
+header a:hover {
+    color: #03a9f4;
+}
+
+main img {
+    width: 100%;
+}
+
+main td {
+    padding-left: 7%;
+    padding-right: 7%;
+    vertical-align: top;
+}
+
+footer {
+    text-align: center;
+    padding: 60px;
+} 
+
+main h3 {
+    text-transform: uppercase;
+    color: #b4ad9e;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+main h2 {
+    font-size: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+main p {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+footer button {
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 200px;
+    font-size: 20px;
+    min-height: 65px;
+    background-color: white;
+}
+
+footer button:hover {
+    background-color: beige;
+}
